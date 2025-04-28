@@ -1,8 +1,4 @@
 <?php
-// --- IMPORTANT SECURITY NOTE ---
-// In a real application, store credentials securely, NOT directly in the code.
-// Use environment variables or a configuration file outside the web root.
-// -----------------------------
 
 define('DB_HOST', 'localhost'); // Or your DB host
 define('DB_NAME', 'chuckle_hub_db'); // Your database name
